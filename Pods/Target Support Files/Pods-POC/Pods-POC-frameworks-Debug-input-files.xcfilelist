@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-POC/Pods-POC-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
